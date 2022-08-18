@@ -3,9 +3,9 @@ Environmental Economics 118 - Econometrics - Fall 2022
 
 Public Repo for course materials for Environmental Economics and Policy 118 - Econometrics 
 
-Professor Jeremy Magruder
+Instructor Pierre Biscaye
 
-GSIs Pierre Biscaye 
+GSIs Leila Njee Bugha and Qingyang Huang
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-modules/ENVECON-118-FA22/main)
 
